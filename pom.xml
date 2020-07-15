@@ -15,5 +15,6 @@
 
   <modules>
     <module>demo-java</module>
+    <module>demo-native</module>
   </modules>
 </project>
