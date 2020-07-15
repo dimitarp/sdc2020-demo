@@ -1,0 +1,7 @@
+{
+  "bundles":[
+    {"name":"i18n.messages"}
+  ],
+  "resources":[
+  ]
+}
