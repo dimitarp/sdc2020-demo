@@ -1,0 +1,10 @@
+[
+  {
+    "name": "net.seitenbau.sdc2020.Hello",
+    "allPublicConstructors": true,
+    "methods": [
+      {"name": "en", "parameterTypes": []},
+      {"name": "de", "parameterTypes": []}
+    ]
+  }
+]
